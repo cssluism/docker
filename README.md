@@ -1,4 +1,4 @@
-# Curso de Docker en Platzi
+# Curso de Docker 
 
 Ésta es una aplicación de ejemplo para el curso de Docker de Platzi por Guido
 Vilariño.
